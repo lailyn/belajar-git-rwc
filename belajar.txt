@@ -1,0 +1,6 @@
+1. punya akun github
+2. install git 
+3. atur config ke github / git config
+4. buat project baru / git init
+5. buat perubahan / git add / commit -m
+6. kirim ke github / git push
