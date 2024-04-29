@@ -5,3 +5,4 @@
 5. buat perubahan / git add / commit -m
 6. kirim ke github / git push
 7. belajar git lagi
+8. perubahan lagi
